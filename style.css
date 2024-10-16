@@ -1,3 +1,10 @@
 body{
+<<<<<<< HEAD
     color: aliceblue; left: 10;;
+=======
+    color: aliceblue;
+}
+body{
+    clear: both;
+>>>>>>> future/new-page
 }
